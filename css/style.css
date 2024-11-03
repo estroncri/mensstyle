@@ -1,0 +1,36 @@
+/* Estilos para la imagen de fondo */
+    body {
+        background-image: url('fondo.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        color: #FFFFFF
+}
+
+
+body {
+    font-family: Aharoni;
+}
+h2 {
+    font-family: Verdana Pro Black;
+    font-size: 32px;
+}
+p {
+    font-size: 24px;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+.logo1 {
+    width: 20%;
+}
+.logo2 {
+    width: 10%;
+}
